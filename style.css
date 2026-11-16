@@ -10,11 +10,11 @@ color: #191970; /* Warna teks utama (Biru Gelap) */
   padding: 20px;
   background-color: white;
   border-radius: 15px; /* Membuat sudut menjadi melengkung */
-  box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* Efek bayangan */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
   text-align: center; /* Menengahkan semua teks di dalam kartu */
 }
 
 .foto-profil {
   width: 130px;
-  border-radius: 50%
+  border-radius: 50%;
 }
